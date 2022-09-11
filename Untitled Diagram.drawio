@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-11T07:04:42.770Z" agent="5.0 (Windows)" etag="UZKvfuJu9xJmpwaLIbva" version="20.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-11T07:32:31.688Z" agent="5.0 (Windows)" etag="j4ZWcEa6DOg7Hh395M7t" version="20.2.8" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d_XBnDBczDyiNmmZXjh_" name="Page-2">
-    <mxGraphModel dx="2643" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="4207" dy="1533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -346,9 +346,6 @@
         <mxCell id="BVcPOgcfTLpyhz8owQ6Z-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="BVcPOgcfTLpyhz8owQ6Z-95" target="BVcPOgcfTLpyhz8owQ6Z-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BVcPOgcfTLpyhz8owQ6Z-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="BVcPOgcfTLpyhz8owQ6Z-95" target="BVcPOgcfTLpyhz8owQ6Z-128" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-jMGkYYJ7HPmFxiyzVDC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BVcPOgcfTLpyhz8owQ6Z-95" target="-jMGkYYJ7HPmFxiyzVDC-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -500,39 +497,6 @@
         </mxCell>
         <mxCell id="BVcPOgcfTLpyhz8owQ6Z-121" value="Band_ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-255" y="1560" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="BVcPOgcfTLpyhz8owQ6Z-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="BVcPOgcfTLpyhz8owQ6Z-128" target="BVcPOgcfTLpyhz8owQ6Z-132" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BVcPOgcfTLpyhz8owQ6Z-128" value="Divided_by" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1090" y="1450" width="165" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="BVcPOgcfTLpyhz8owQ6Z-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="BVcPOgcfTLpyhz8owQ6Z-132" target="BVcPOgcfTLpyhz8owQ6Z-134" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BVcPOgcfTLpyhz8owQ6Z-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="BVcPOgcfTLpyhz8owQ6Z-132" target="BVcPOgcfTLpyhz8owQ6Z-136" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BVcPOgcfTLpyhz8owQ6Z-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="BVcPOgcfTLpyhz8owQ6Z-132" target="BVcPOgcfTLpyhz8owQ6Z-138" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BVcPOgcfTLpyhz8owQ6Z-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="BVcPOgcfTLpyhz8owQ6Z-132" target="BVcPOgcfTLpyhz8owQ6Z-140" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BVcPOgcfTLpyhz8owQ6Z-132" value="Genre" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1295" y="1370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BVcPOgcfTLpyhz8owQ6Z-134" value="Pop" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1495" y="1370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BVcPOgcfTLpyhz8owQ6Z-136" value="Rock" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1295" y="1240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BVcPOgcfTLpyhz8owQ6Z-138" value="Jazz" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1445" y="1260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BVcPOgcfTLpyhz8owQ6Z-140" value="Others" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1132" y="1290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BVcPOgcfTLpyhz8owQ6Z-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="BVcPOgcfTLpyhz8owQ6Z-142" target="BVcPOgcfTLpyhz8owQ6Z-143" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -763,7 +727,7 @@
         <mxCell id="-jMGkYYJ7HPmFxiyzVDC-49" value="Album_Price" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1290" y="2130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-jMGkYYJ7HPmFxiyzVDC-51" value="Composer_ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-jMGkYYJ7HPmFxiyzVDC-51" value="Band_ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1355" y="1510" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
