@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T09:34:39.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="WFOIF_iwi7dI9aG-S_J3" version="24.2.5" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-06-04T10:16:18.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="C9MEDlj-u0525jaWjQwC" version="24.4.13" type="github" pages="13">
   <diagram name="Page-1" id="hgfZkdV9wZ3akMF5zYPl">
     <mxGraphModel dx="880" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1300" math="0" shadow="0">
       <root>
@@ -2414,41 +2414,38 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="J5awU6izCaclULmotB_b-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J5awU6izCaclULmotB_b-2" target="J5awU6izCaclULmotB_b-4">
+        <mxCell id="J5awU6izCaclULmotB_b-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J5awU6izCaclULmotB_b-2" target="J5awU6izCaclULmotB_b-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J5awU6izCaclULmotB_b-2" value="Read Dataset" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="120" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J5awU6izCaclULmotB_b-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J5awU6izCaclULmotB_b-4" target="J5awU6izCaclULmotB_b-6">
+        <mxCell id="z8-djsKBwAzNL564ZGo6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5awU6izCaclULmotB_b-4" target="J5awU6izCaclULmotB_b-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J5awU6izCaclULmotB_b-4" value="&lt;div&gt;Data&amp;nbsp;&lt;/div&gt;&lt;div&gt;Pre-processing&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="200" width="120" height="40" as="geometry" />
+        <mxCell id="J5awU6izCaclULmotB_b-4" value="&lt;div&gt;Data&amp;nbsp;&lt;/div&gt;&lt;div&gt;Pre-processing&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="J5awU6izCaclULmotB_b-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J5awU6izCaclULmotB_b-6" target="J5awU6izCaclULmotB_b-8">
+        <mxCell id="J5awU6izCaclULmotB_b-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J5awU6izCaclULmotB_b-6" target="J5awU6izCaclULmotB_b-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J5awU6izCaclULmotB_b-6" value="Perform CNN Model for classification with feature selection" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="280" width="120" height="80" as="geometry" />
+        <mxCell id="J5awU6izCaclULmotB_b-6" value="Perform CNN Model for classification with feature selection" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="J5awU6izCaclULmotB_b-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J5awU6izCaclULmotB_b-8" target="J5awU6izCaclULmotB_b-9">
+        <mxCell id="J5awU6izCaclULmotB_b-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J5awU6izCaclULmotB_b-8" target="J5awU6izCaclULmotB_b-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J5awU6izCaclULmotB_b-8" value="Performance Evaluation" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="400" width="120" height="40" as="geometry" />
+        <mxCell id="J5awU6izCaclULmotB_b-8" value="Performance Evaluation" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="J5awU6izCaclULmotB_b-9" value="END" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="480" width="120" height="40" as="geometry" />
+        <mxCell id="J5awU6izCaclULmotB_b-9" value="END" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LUUoeFwGKQPjyZIXh1jE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J5awU6izCaclULmotB_b-10" target="J5awU6izCaclULmotB_b-2">
+        <mxCell id="LUUoeFwGKQPjyZIXh1jE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J5awU6izCaclULmotB_b-10" target="J5awU6izCaclULmotB_b-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J5awU6izCaclULmotB_b-10" value="START" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J5awU6izCaclULmotB_b-10" value="START" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1120" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LUUoeFwGKQPjyZIXh1jE-2" value="&lt;div&gt;Seven performance for featue:&lt;/div&gt;&lt;div&gt;1. Full Feature&lt;/div&gt;&lt;div&gt;2. Correlation Coefficient&lt;/div&gt;&lt;div&gt;3. Correlation Coefficient and RFE-RandomForrestClassifier (half features)&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Correlation Coefficient and RFE-RandomForrestClassifier (10 features)&lt;/div&gt;&lt;div&gt;5. Information Gain &lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Information Gain and RFE-RandomForrestClassifier (half features)&lt;/div&gt;&lt;div&gt;7. Information Gain and RFE-RandomForrestClassifier (10 features)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="280" width="305" height="220" as="geometry" />
+        <mxCell id="J5awU6izCaclULmotB_b-2" value="Model Read Dataset" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
