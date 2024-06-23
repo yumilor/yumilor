@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yumilor, Raisa
-- 👀 I’m interested in mobile app development, machine learning, and networking
-- 🌱 I’m currently learning in Sampoerna University major Computer Science 
+- I’m interested in mobile app development, machine learning, and computer networking 
 - 📫 How to reach me 
 email : raisa.imani.sani@gmail.com
 
