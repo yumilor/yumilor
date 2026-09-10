@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram name="Page-1" id="Qyq_XCGGUoy-ZOqNg198">
-    <mxGraphModel dx="491" dy="294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1012" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1125,7 +1125,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="loqkchiT5_vNW-llm70I" name="Page-3">
-    <mxGraphModel dx="4300" dy="2575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1433" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1142,16 +1142,6 @@
         <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:left;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size: 11.29px; font-family: Calibri; color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1;&quot;&gt;Email to lab coordinator for CS Lab:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size: 11.29px; font-family: Calibri; color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1;&quot;&gt;Panji.darma@sampoernauniversity.ac.id&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size: 11.29px; font-family: Calibri; color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size: 11.29px; font-family: Calibri; color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1;&quot;&gt;&lt;br&gt;For Mechatronics lab:&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align:left;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size: 11.29px; font-family: Calibri; color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1;&quot;&gt;raisa.s@sampoernauniversity.ac.id&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" tags="Background" id="ba7ohsNlFd6IQiIQyANW-3">
           <mxCell parent="1" style="verticalAlign=middle;align=left;overflow=width;vsdxID=403;fillColor=none;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;container=0;" vertex="1">
             <mxGeometry height="120" width="328.3851041298976" x="1305.051182492058" y="260" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" tags="Background" id="ba7ohsNlFd6IQiIQyANW-4">
-          <mxCell edge="1" parent="1" style="vsdxID=4;edgeStyle=none;startArrow=none;endArrow=none;startSize=5;endSize=5;strokeColor=#404040;shadow=1;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=none;rounded=0;align=center;">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint as="offset" />
-              <Array as="points" />
-              <mxPoint x="753.8951641369573" y="240" as="sourcePoint" />
-              <mxPoint x="1603.4256971408402" y="240" as="targetPoint" />
-            </mxGeometry>
           </mxCell>
         </UserObject>
         <mxCell id="ba7ohsNlFd6IQiIQyANW-5" edge="1" parent="1" source="ba7ohsNlFd6IQiIQyANW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ba7ohsNlFd6IQiIQyANW-8">
@@ -1350,11 +1340,6 @@
         <mxCell id="ba7ohsNlFd6IQiIQyANW-59" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;verticalAlign=middle;spacingLeft=-1;spacingRight=-1;spacingTop=-1;spacingBottom=-1;labelBackgroundColor=none;container=0;" value="Lab User" vertex="1">
           <mxGeometry height="80" width="219.3081539004589" x="93.13123896929051" y="1349" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;b&gt;DOCUMENT&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size:14.11px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;b&gt;S&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size:14.11px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;b&gt;/RECORDS&lt;br/&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" tags="Background" id="ba7ohsNlFd6IQiIQyANW-60">
-          <mxCell parent="1" style="verticalAlign=middle;align=center;overflow=width;vsdxID=6;fillColor=#91b5d5;gradientColor=#a6c3dd;gradientDirection=north;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#404040;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;container=0;" vertex="1">
-            <mxGeometry height="35.74213025221616" width="252.4242347839242" x="1039.5728909283446" y="209" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="" tags="Background" id="ba7ohsNlFd6IQiIQyANW-61">
           <mxCell edge="1" parent="1" style="vsdxID=2;edgeStyle=none;startArrow=none;endArrow=none;startSize=5;endSize=5;strokeColor=#404040;shadow=1;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;verticalAlign=middle;html=1;labelBackgroundColor=none;rounded=0;">
             <mxGeometry relative="1" as="geometry">
@@ -1507,24 +1492,29 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 10px;&quot;&gt;Email/Ms. Teams Message request to Laboratory Staff (Day, date, time, consumables, and activity). For consumable, it is based on request and availability&amp;nbsp;&lt;/font&gt;" tags="Flowchart" id="ba7ohsNlFd6IQiIQyANW-92">
+        <UserObject label="&lt;font&gt;Email/Ms. Teams Message request to Laboratory Staff (Day, date, time, consumables, and activity). For consumable, it is based on request and availability&amp;nbsp;&lt;/font&gt;" tags="Flowchart" id="ba7ohsNlFd6IQiIQyANW-92">
           <mxCell parent="1" style="verticalAlign=top;align=center;overflow=width;vsdxID=1113;fillColor=#f0f0f0;gradientColor=#ffffff;gradientDirection=north;shape=stencil(tZLBEoIgEIafhiMOQqadzd6DSVQmEmehtLcPwim1vDjTbfffb3d/hkUsNw3vBKLEWNAX0cvSNogdEaWybQRI6yLECsTySoOoQd/aMuQd96SPrvruJwyhj/gOSh4hy9IoeQmnwCrZrrJkHYzJZnTpgMPZFWGkExJlu8DD2HDYR2lQ3szvgWTAfJAGg7bcSt3O3qQ41AK7ZbhSvJ6VTC9E9yVvtvdnd/HUnQs+/15JpcLZTOvLO3FSuDFWPAE=);strokeColor=#404040;shadow=1;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[1,0.5,0],[0.5,0,0],[0.5,0.88,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;container=0;" vertex="1">
-            <mxGeometry height="109.10803180914512" width="150.26071302506182" x="1103.0568302153195" y="320" as="geometry" />
+            <mxGeometry height="109.11" width="230" x="1050" y="320" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font style=&quot;font-size: 9px;&quot;&gt;Fill in Booking form&lt;/font&gt;" tags="Flowchart" id="ba7ohsNlFd6IQiIQyANW-93">
+        <UserObject label="&lt;font&gt;Fill in Booking form&lt;/font&gt;" tags="Flowchart" id="ba7ohsNlFd6IQiIQyANW-93">
           <mxCell parent="1" style="verticalAlign=top;align=center;overflow=width;vsdxID=1114;fillColor=#f0f0f0;gradientColor=#ffffff;gradientDirection=north;shape=stencil(tZLBDoIwDIafZseRsYlwR32PRQYsTka6Kfj2bpZEwHAh8db+/dr+y0pE6VrZK8KZ82BvatCVb4k4Ec511yrQPkREnIkoawuqAfvoKsx7GckY3e0zThixj8UOzl6YFXmSfYQLskZ3myzbBlO2G107kHANRZjookgOiMPEC3ZM0hy1Cco2JrKRylE7CtZLr223eJSR0CgattHayGZRcoNS/Y+839+f7aVzeyH4/nytjcHDmdfXlxIkvDJxfgM=);strokeColor=#404040;shadow=1;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[1,0.5,0],[0.5,0,0],[0.5,0.88,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;container=0;" vertex="1">
-            <mxGeometry height="41.38580516898608" width="150.26071302506182" x="1103.0568302153195" y="763.956819085487" as="geometry" />
+            <mxGeometry height="41.39" width="219.31" x="1060.69" y="785" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Check the schedule calendar" tags="Flowchart" id="ba7ohsNlFd6IQiIQyANW-94">
+        <UserObject label="&lt;font style=&quot;font-size: 12px;&quot;&gt;Check the schedule calendar&lt;/font&gt;" tags="Flowchart" id="ba7ohsNlFd6IQiIQyANW-94">
           <mxCell parent="1" style="verticalAlign=top;align=center;overflow=width;vsdxID=1113;fillColor=#f0f0f0;gradientColor=#ffffff;gradientDirection=north;shape=stencil(tZLBEoIgEIafhiMOQqadzd6DSVQmEmehtLcPwim1vDjTbfffb3d/hkUsNw3vBKLEWNAX0cvSNogdEaWybQRI6yLECsTySoOoQd/aMuQd96SPrvruJwyhj/gOSh4hy9IoeQmnwCrZrrJkHYzJZnTpgMPZFWGkExJlu8DD2HDYR2lQ3szvgWTAfJAGg7bcSt3O3qQ41AK7ZbhSvJ6VTC9E9yVvtvdnd/HUnQs+/15JpcLZTOvLO3FSuDFWPAE=);strokeColor=#404040;shadow=1;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[1,0.5,0],[0.5,0,0],[0.5,0.88,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=9;fontColor=default;fontStyle=0;container=0;" vertex="1">
-            <mxGeometry height="41.38580516898608" width="150.26071302506182" x="1103.0568302153195" y="438.5138966202783" as="geometry" />
+            <mxGeometry height="41.39" width="230" x="1050" y="438.51" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Update in Lab Booking Calendar" tags="Flowchart" id="ba7ohsNlFd6IQiIQyANW-95">
           <mxCell parent="1" style="verticalAlign=top;align=center;overflow=width;vsdxID=1114;fillColor=#f0f0f0;gradientColor=#ffffff;gradientDirection=north;shape=stencil(tZLBDoIwDIafZseRsYlwR32PRQYsTka6Kfj2bpZEwHAh8db+/dr+y0pE6VrZK8KZ82BvatCVb4k4Ec511yrQPkREnIkoawuqAfvoKsx7GckY3e0zThixj8UOzl6YFXmSfYQLskZ3myzbBlO2G107kHANRZjookgOiMPEC3ZM0hy1Cco2JrKRylE7CtZLr223eJSR0CgattHayGZRcoNS/Y+839+f7aVzeyH4/nytjcHDmdfXlxIkvDJxfgM=);strokeColor=#404040;shadow=1;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[1,0.5,0],[0.5,0,0],[0.5,0.88,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;container=0;" vertex="1">
-            <mxGeometry height="41.38580516898608" width="150.26071302506182" x="1103.0568302153195" y="1224.8441948310137" as="geometry" />
+            <mxGeometry height="41.39" width="219.31" x="1055.3500000000001" y="1223.61" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;b&gt;DOCUMENT&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size:14.11px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;b&gt;S&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size:14.11px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;b&gt;/RECORDS&lt;br/&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" tags="Background" id="ba7ohsNlFd6IQiIQyANW-60">
+          <mxCell parent="1" style="verticalAlign=middle;align=center;overflow=width;vsdxID=6;fillColor=#91b5d5;gradientColor=#a6c3dd;gradientDirection=north;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#404040;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;container=0;" vertex="1">
+            <mxGeometry height="37" width="252.42" x="1039.57" y="209.37" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
